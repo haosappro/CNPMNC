@@ -18,6 +18,8 @@ namespace CNPMNC
             Console.WriteLine("dap an la :",ketqua);
 
             Console.WriteLine("Xin chao toi la tathuylam")
+
+            Console.WriteLine("Xin chao toi la Nguyen thi thuy hang")
         }
     }
 }
