@@ -16,6 +16,8 @@ namespace CNPMNC
 
             ketqua = a + b;
             Console.WriteLine("dap an la :",ketqua);
+
+            Console.WriteLine("Xin chao toi la tathuylam")
         }
     }
 }
