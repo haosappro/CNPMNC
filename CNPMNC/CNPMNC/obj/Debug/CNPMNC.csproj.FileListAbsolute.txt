@@ -1,0 +1,8 @@
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\bin\Debug\CNPMNC.exe.config
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\bin\Debug\CNPMNC.exe
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\bin\Debug\CNPMNC.pdb
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\obj\Debug\CNPMNC.csproj.AssemblyReference.cache
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\obj\Debug\CNPMNC.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\obj\Debug\CNPMNC.csproj.CoreCompileInputs.cache
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\obj\Debug\CNPMNC.exe
+C:\Users\tranh\Downloads\Tài Liệu Học\Tài Liệu Học\NĂM 3\HK2\Đồ Án Phần Mềm\Thực Hành\CNPMNC\CNPMNC\obj\Debug\CNPMNC.pdb
